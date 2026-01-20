@@ -1,0 +1,6 @@
+payment_method,processing_fee_pct
+Credit Card,2.9
+Debit Card,2.1
+Wallet,1.5
+Bank Transfer,1.0
+UPI,0.5
